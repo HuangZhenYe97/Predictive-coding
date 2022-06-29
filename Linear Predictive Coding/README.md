@@ -1,1 +1,2 @@
 This is the code of the paper [Lateral predictive coding revisited: Internal model, symmetry breaking, and response time](https://iopscience.iop.org/article/10.1088/1572-9494/ac7c03). The code is written in python and one can open the file using jupyter notebook. To run the code, one shoule first install pytorch and other basic python packages. 
+By running the file _TrainingProcess.ipynb_, one can obtain the weights through SGD. And  running the file _dataanalysis.ipynb_ can give the results in the papers. 
